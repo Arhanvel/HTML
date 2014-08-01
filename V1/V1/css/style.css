@@ -1,0 +1,73 @@
+.top {
+	background-color: #fdfdfd;
+	font-color: #000000;
+	margin:0 0 0 auto;
+}
+.footer {
+	background-color: #9fca38;
+	font-color: #ffffff; 
+	margin:auto 0 0 0;
+}
+
+.main-container {
+	width: 955px;
+	margin: 0 auto;
+}
+
+.button {
+  border-radius: 7px;
+  background-image: -moz-linear-gradient( 90deg, rgb(159,202,56) 0%, rgb(176,225,57) 100%);
+  background-image: -webkit-linear-gradient( 90deg, rgb(159,202,56) 0%, rgb(176,225,57) 100%);
+  background-image: -ms-linear-gradient( 90deg, rgb(159,202,56) 0%, rgb(176,225,57) 100%);
+  outline:none;
+}
+
+header {
+	font: bold 28pt arial;
+	font-color: #000000;
+}
+
+.log-in-button {
+	font: bold 17pt arial; 
+	color: #fdfdfd;
+}
+
+.register-now {
+	font: bold 31pt arial;
+	color: #fdfdfd;
+}
+
+.top-description-text {
+	font: normal 17pt arial;
+	color: #000000;
+}
+
+.register-button-note {
+	font: bold 15pt arial;
+	color: #000000;
+}
+
+.register-note {
+	font: italic 12pt arial;
+	color: #acacac;
+}
+
+.container-header {
+	font: bold 17pt arial;
+	color: #ffffff;
+}
+
+.container-text {
+	font: normal 17pt arial;
+	color: #ffffff;
+}
+
+.copyright {
+	font: normal 13pt arial;
+	color: #ffffff;
+}
+
+.foot-text {
+	font: normal 13pt arial;
+	color: #000000;
+}
